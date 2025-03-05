@@ -8,8 +8,9 @@
 
 
 ## <p align="center">![GitHub followers](https://img.shields.io/github/followers/c0derb1illionaire?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/c0derb1illionaire?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=c0derb1illionaire.repoName) <img src="https://komarev.com/ghpvc/?username=c0derb1illionaire" alt="AnushkaWijegoonawardana97" />
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">&nbsp;***About me***
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img src="https://media.giphy.com/media/HCevnBRJE6Z6n2VqlG/giphy.gif?cid=ecf05e47uhvkg6n0o1d037rlnd42hovp72wsjwxvb7ybtbqg&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="35px">&nbsp;***About me***
+<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47s5qtgeluqm09ob6s9250y27xze2fe7vqmsx6xduj&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 - :books: I’m currently learning C/C++, C# , Python, Web Dev, Java, Kotlin, Swift and Objective-C.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: Finding and coding solutions, Video Editing, Videogames, Music and Motion Graphics.
@@ -24,4 +25,4 @@ Contact: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-s
 ----
 Credits: [c0derb1illionaire](https://github.com/c0derb1illionaire)
 
-Last Edited on: 05/03/2025
+Last Edited on: 03/05/2025
