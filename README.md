@@ -43,6 +43,33 @@
      <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green" 
      width="100" 
      height="25" />
+     
+<details>
+  <summary>✨ Github Stats</summary>
+  <br>
+  <img align="left" alt="c0derb1illionaire's Github Stats" src="https://github-readme-stats.vercel.app/api?username=c0derb1illionaire&show_icons=true&theme=dracula" />
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  <img align="left" alt="c0derb1illionaire's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0derb1illionaire&theme=dracula" /> <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</details>
 
 ----
 Contact: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nicebutrelentless@hotmail.com)
