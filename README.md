@@ -29,6 +29,20 @@
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" 
      width="100" 
      height="25" />
+- 🧑‍💻 Developer/Forums: <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" 
+     width="100" 
+     height="25" />
+  
+- 🎓 Education: 
+     <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" 
+     width="100" 
+     height="25" />
+     <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" 
+     width="100" 
+     height="25" />
+     <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green" 
+     width="100" 
+     height="25" />
 
 ----
 Contact: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nicebutrelentless@hotmail.com)
