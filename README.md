@@ -13,7 +13,7 @@
 <img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47s5qtgeluqm09ob6s9250y27xze2fe7vqmsx6xduj&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 - :books: I’m currently learning C/C++, C# , Python, Web Development, Computer Networks + Cybersecurity, Java, Kotlin, Swift and Objective-C.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
-- :pushpin: Interests: Finding and coding solutions, Video Editing, Videogames, Music and Motion Graphics.
+- :pushpin: Interests: Finding and coding solutions, Video Editing, Videogames, and Music Production.
 - 🎛️ Operating System: <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" 
      width="100" 
      height="25" />
