@@ -14,10 +14,21 @@
 - :books: I’m currently learning C/C++, C# , Python, Web Dev, Java, Kotlin, Swift and Objective-C.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
 - :pushpin: Interests: Finding and coding solutions, Video Editing, Videogames, Music and Motion Graphics.
-
-
-
-
+- 🎛️ Operating System: <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" 
+     width="100" 
+     height="25" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" 
+     width="100" 
+     height="25" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" 
+     width="100" 
+     height="25" />
+  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" 
+     width="100" 
+     height="25" />
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" 
+     width="100" 
+     height="25" />
 
 ----
 Contact: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nicebutrelentless@hotmail.com)
