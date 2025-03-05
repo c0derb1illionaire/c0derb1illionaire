@@ -72,7 +72,7 @@
 </details>
 
 ----
-Contact: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nicebutrelentless@hotmail.com)
+***Contact:*** [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:nicebutrelentless@hotmail.com)
 
 ----
 Credits: [c0derb1illionaire](https://github.com/c0derb1illionaire)
